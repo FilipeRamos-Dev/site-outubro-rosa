@@ -104,7 +104,7 @@ a:hover{
 }
 
 .card{
-    padding: 24px;
+    padding: 10px;
     background-color: rgb(255, 208, 246);
     border: 1px solid #d8e0e8;
     border-radius: 10px;
@@ -139,4 +139,17 @@ a:hover{
 
 code, pre{
     font-family: Consolas, "Courier New", monospace;
+}
+
+#parag{
+     margin-bottom: 5px;
+    color: rgb(169, 2, 105);
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.img{
+    width: 200px;
+    border-radius: 50px 30px;
 }
